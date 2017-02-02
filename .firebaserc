@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "prod": "groovycms"
+    ,"dev": "groovycms-dev"
+  }
+}
